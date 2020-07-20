@@ -1,0 +1,10 @@
+D:\Documents\Workspace\SempreEmForma\SempreEmForma\SempreEmForma\bin\Debug\SempreEmForma.exe.config
+D:\Documents\Workspace\SempreEmForma\SempreEmForma\SempreEmForma\bin\Debug\SempreEmForma.exe
+D:\Documents\Workspace\SempreEmForma\SempreEmForma\SempreEmForma\bin\Debug\SempreEmForma.pdb
+D:\Documents\Workspace\SempreEmForma\SempreEmForma\SempreEmForma\obj\Debug\SempreEmForma.formSEF.resources
+D:\Documents\Workspace\SempreEmForma\SempreEmForma\SempreEmForma\obj\Debug\SempreEmForma.Properties.Resources.resources
+D:\Documents\Workspace\SempreEmForma\SempreEmForma\SempreEmForma\obj\Debug\SempreEmForma.csproj.GenerateResource.cache
+D:\Documents\Workspace\SempreEmForma\SempreEmForma\SempreEmForma\obj\Debug\SempreEmForma.csproj.CoreCompileInputs.cache
+D:\Documents\Workspace\SempreEmForma\SempreEmForma\SempreEmForma\obj\Debug\SempreEmForma.exe
+D:\Documents\Workspace\SempreEmForma\SempreEmForma\SempreEmForma\obj\Debug\SempreEmForma.pdb
+D:\Documents\Workspace\SempreEmForma\SempreEmForma\SempreEmForma\obj\Debug\SempreEmForma.csprojAssemblyReference.cache
